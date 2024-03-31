@@ -1,7 +1,7 @@
 # CTGPROnDolphin
 Repo about running CTGP Revolution on Dolphin Emulator.
 
-1. In your new version of Dolphin: go to Config > Advanced, check the box labeled "Enable Write-Back Cache (slow)". This will slow down Dolphin considerably, but it is necessary to install CTGP-R.
+1. Go to Config > Advanced, check the box labeled "Enable Write-Back Cache (slow)". This will slow down Dolphin considerably, but it is necessary to install CTGP-R.
 2. Install the Wii menu if you have not already: Perform Online System Update > (Your region).
 3. Install Homebrew if you have not already: Download a Homebrew WAD, like from [here.](https://github.com/forwarderfactory/hbc-archive/tree/hbc-wads) Install it by going to Tools > Install from WAD...
 4. If you have stuff on your virtual SD card -- back it up. Additionally, go to Config > Wii > Convert File to Folder Now if your SD isn't empty. If you skip this step, your SD card will be wiped.
